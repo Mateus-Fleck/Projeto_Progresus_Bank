@@ -1,14 +1,12 @@
 # Projeto_Progressus_Bank
 
-* Desenvolvimento de uma Homepage utilizando (HTML, CSS, Bootstrap e JavaScript).
+Desenvolvimento da Homepage utilizando (HTML, CSS, Bootstrap e JavaScript).
 
-## Motor de busca para analize de propostas:
+## Fintech 
 * Empréstimos pessoais 
 * Empréstimos consignados 
-* Financiamentos 
-* Refinanciamentos 
 * Consóricios 
-* + Outras soluções financeiras
+* Financiamentos 
+* Refinanciamentos
 
-
-
+Somos uma Fintech que utiliza a inteligencia artificial para analizar e encontrar as melhores soluções financeiras de acordo com sua necessidade!
